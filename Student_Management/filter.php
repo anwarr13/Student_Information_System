@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>SIS</title>
+<title>Student Information System</title>
 <?php include 'dbcon.php';?>
 <?php $cname = $_GET['cname']?>
 <body>

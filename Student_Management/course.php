@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>SIS</title>
+<title>Student Information System</title>
 <?php include 'dbcon.php';?>
 <body>
 <div style="background-color:green;width:100%;color:white;font-size:20px"><center>Student Information System</center></div>
